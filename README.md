@@ -1,0 +1,1 @@
+Basicamente o nosso codigo foi um loguin, onde tem 3 opções: "fazer cadastro" , "exibir cadastro" , "sair do sistema". e quando iniciamos o sistema tem uma mensagem de inicio. Na saida, tem uma mensagem de saida tambem. resumidamente é isso ai!!
